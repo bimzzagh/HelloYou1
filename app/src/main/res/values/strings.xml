@@ -4,7 +4,7 @@
     <string name="txt_button">OKI</string>
     <string name="txt_switch">NFC</string>
     <string name="txt_nfc_ok">NFC is Available</string>
-    <string name="txt_nfc_non">NFC is NOT Available</string>
+    <string name="txt_nfc_non">NFC is NOT Available !</string>
     <string name="txt_nfc_active">NFC is Active</string>
     <string name="txt_nfc_not_active">NFC NOT Active</string>
     <string name="nfc_wikipedia">"For more informations : <a href='https://en.wikipedia.org/wiki/List_of_NFC-enabled_mobile_devices'>wikipedia</a>"</string>
